@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Concept")]
+[assembly: AssemblyTitle("Concept For LGOS")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard")]
+[assembly: AssemblyCompany("TheAwesomeLyfe Productions Inc")]
 [assembly: AssemblyProduct("Concept")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2014")]
+[assembly: AssemblyCopyright("TheAwesomeLyfe Productions Inc ©")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
