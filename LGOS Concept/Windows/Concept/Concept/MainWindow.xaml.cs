@@ -24,5 +24,11 @@ namespace Concept
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            // Shutdown Button for Power options. Shutdown, restart, ect...
+            
+        }
     }
 }
